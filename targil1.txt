@@ -1,0 +1,9 @@
+1. create an array of 3 double numbers
+2. read the numbers from the user
+3. print the array numbers
+4. create a list of Integer
+5. read a number from the user (i.e. 5)
+6. add random numbers to the list from as requested by the user number (i.e.5)
+7. print the numbers from the list
+8. remove the first number from the list
+9. print the list
