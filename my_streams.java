@@ -38,6 +38,7 @@ public class Main {
 		
 		int[] arr_ints = { 5, 8, -2, 6, 9, 10};
 		long counter2 = Arrays.stream(arr_ints).filter(x -> x >= 5).count();
+		Arrays.stream(arr_ints).filter(x -> x >= 5).boxed().collect(Collectors.toList());
 		System.out.println("items bigger than 5: " + counter2);
 		
 		List<String> strings = Arrays.asList("itay", "danny", "suzi");
