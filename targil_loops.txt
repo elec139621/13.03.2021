@@ -1,0 +1,9 @@
+		 // 1
+		 targil: input number from user
+		 calc atzeret (factorial)
+		 5! = 1 * 2 * 3 * 4 * 5 == 120
+		
+		// 2
+		 targil: input numbers from user
+		 if even number was entered sum it
+		 if below zero number entered break
