@@ -24,7 +24,7 @@ public class Main {
 		Integer y = null;
 		System.out.println(y);
 		
-		int[] arr = null;
+		int[] arr = null; // empty
 		int[] arr1 = new int[3];
 		
 		//int[] arr1 = {1, 2, 3};
